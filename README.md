@@ -18,13 +18,12 @@ The notebooks perform the analyses described in the paper.
 - CMEMS account for data download (optional, data is included in the `data` folder)
 
 
-📊 Repository structure
+## 📊 Repository structure
 
 ├── notebooks/               # Jupyter notebooks
 │   ├── 01_JN_CurrentsTemp1993_2025.ipynb
 │   ├── 02_JN_PhytoChlorophyllDepht1993_2025.ipynb
 │   └── 03_JN_ZooMicroNektonData1998_2024.ipynb
-├── data/                    # CMEMS Data (optional)
 └── README.md                # This file
 
 
